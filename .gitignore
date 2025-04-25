@@ -172,3 +172,19 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# 
+
+RAG/.cache/huggingface
+RAG/.ipynb_checkpoints
+RAG/clip_finetuned
+RAG/train_val
+RAG/1611.04684v1.pdf
+RAG/SPIQA_testA.json
+RAG/SPIQA_train.json
+RAG/train.csv
+RAG/train.zip
+RAG/.DS_Store
+RAG/Data.ipynb
+RAG/train/
