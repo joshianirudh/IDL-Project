@@ -175,7 +175,8 @@ cython_debug/
 
 
 # 
-
+.DS_Store
+RAG/test-A/
 RAG/.cache/huggingface
 RAG/.ipynb_checkpoints
 RAG/clip_finetuned
